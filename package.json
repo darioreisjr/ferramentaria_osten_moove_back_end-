@@ -9,5 +9,14 @@
   },
   "scripts": {
     "start": "node ./src/index.js"
-  }
+  },
+  "name": "ferramentaria_osten_moove_back_end-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": "https://github.com/darioreisjr/ferramentaria_osten_moove_back_end-.git",
+  "author": "Dario Reis <guttyerresjunior1995@gmail.com>",
+  "license": "MIT"
 }
