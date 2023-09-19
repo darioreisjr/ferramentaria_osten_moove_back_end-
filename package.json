@@ -1,4 +1,16 @@
 {
+  "name": "ferramentaria_osten_moove_back_end-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18"
+  },
+  "repository": "https://github.com/darioreisjr/ferramentaria_osten_moove_back_end-.git",
+  "author": "Dario Reis <guttyerresjunior1995@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
   "dependencies": {
     "@prisma/client": "^5.3.1",
     "cors": "^2.8.5",
@@ -6,17 +18,5 @@
     "express": "^4.18.2",
     "mongod": "^2.0.0",
     "prisma": "^5.3.1"
-  },
-  "scripts": {
-    "start": "node ./src/index.js"
-  },
-  "name": "ferramentaria_osten_moove_back_end-",
-  "version": "1.0.0",
-  "main": "index.js",
-  "engines": {
-    "node": "16.x"
-  },
-  "repository": "https://github.com/darioreisjr/ferramentaria_osten_moove_back_end-.git",
-  "author": "Dario Reis <guttyerresjunior1995@gmail.com>",
-  "license": "MIT"
+  }
 }
