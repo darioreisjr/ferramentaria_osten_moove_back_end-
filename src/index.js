@@ -11,5 +11,5 @@ app.use(express.json());
 
 require("../src/routes/index")(app);
 
-app.listen(3001);
-console.log("api iniciada na porta 3001");
+app.listen(3010);
+console.log("api iniciada na porta 3010");
