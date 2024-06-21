@@ -185,6 +185,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [MIT](https://choosealicen
 
 
 <hr/>
-<p align="center"> Copyright :copyright: 2023 - FERRAMENTARIA OSTEN MOOVE BACK-END Dario Reis<p/>
+<p align="center"> Copyright :copyright: 2024 - FERRAMENTARIA OSTEN MOOVE BACK-END Dario Reis<p/>
 
 
